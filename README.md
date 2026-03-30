@@ -1,1 +1,1 @@
-I've coded some stuff. Some of it is kinda fun.
+Random hobby projects I made in high school. Mostly using python. 
